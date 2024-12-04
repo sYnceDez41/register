@@ -1,0 +1,17 @@
+{
+  "description": "Website for my Semester to For Event Registrations",
+
+  "domain": "is-local.org",
+  "subdomain": "codesquad",
+
+  "owner": {
+    "repo": "https://github.com/devdaim6/department-of-it.git",
+    "email": "daimdev6@gmail.com"
+  },
+
+  "record": {
+    "A":["76.76.21.21"]
+  },
+
+  "proxied": false
+}
